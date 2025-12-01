@@ -58,7 +58,8 @@ CSS3
 
 JavaScript
 
-Imagens de pôsteres hospedadas online ou locais<br>
+Imagens de pôsteres hospedadas online ou locais<br><br>
+
 
 
 
@@ -103,6 +104,7 @@ Projeto criado para estudo e prática das habilidades em:
 
 
 <h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+
 
 
 
