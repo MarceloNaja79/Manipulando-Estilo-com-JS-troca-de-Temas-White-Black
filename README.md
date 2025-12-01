@@ -13,7 +13,8 @@ Este projeto consiste em um Catálogo de Filmes interativo desenvolvido com HTML
 ##Tela Black👇
 <figuri>
 <img src="Captura de tela 2025-12-01 091017.png"/> 
-<figuri/>
+<figuri/><br>
+
 
 ## 📂 Estrutura do Projeto ✅
 /projeto-filmes<br>
@@ -22,7 +23,8 @@ Este projeto consiste em um Catálogo de Filmes interativo desenvolvido com HTML
 │── script.js<br>
 │── /img<br>
 │     └── logo.png<br>
-└── README.md<br>
+└── README.md<br><br>
+
 
 ## 📌 Funcionalidades Principais
 ✅ 1. Cards de Filmes Cada card contém:
@@ -56,7 +58,8 @@ CSS3
 
 JavaScript
 
-Imagens de pôsteres hospedadas online ou locais
+Imagens de pôsteres hospedadas online ou locais<br>
+
 
 
 ## 🚀 Como Executar o Projeto
@@ -82,20 +85,25 @@ Cores do modo escuro
 
 Logo no topo
 
-Tamanho dos cards
+Tamanho dos cards<br>
+
 
 Se quiser, pode adicionar mais funcionalidades, como:<br>
  ✔ Pesquisa de filmes<br>
  ✔ Sistema de filtros por gênero<br>
  ✔ Animações extras<br>
  ✔ Modo responsivo aperfeiçoado<br>
- ✔ Carrossel<br>
+ ✔ Carrossel<br><br>
+
 
 🧑‍💻 Desenvolvedor
 Projeto criado para estudo e prática das habilidades em:
- HTML, CSS, JavaScript (iniciante/intermediário).
+ HTML, CSS, JavaScript (iniciante/intermediário).<br>
+<br>
+
 
 <h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+
 
 
 
