@@ -5,12 +5,12 @@ Este projeto consiste em um Catálogo de Filmes interativo desenvolvido com HTML
  Ele apresenta cards de filmes, botão de favoritar, modo escuro e responsividade básica.<br>
 
  
-#Tela White👇
+## Tela White👇
 <figuri>
 <img src="Captura de tela 2025-12-01 090955.png"/> 
 <figuri/>
 
-#Tela Black👇
+## Tela Black👇
 <figuri>
 <img src="Captura de tela 2025-12-01 091017.png"/> 
 <figuri/><br>
@@ -104,6 +104,7 @@ Projeto criado para estudo e prática das habilidades em:
 
 
 <h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+
 
 
 
