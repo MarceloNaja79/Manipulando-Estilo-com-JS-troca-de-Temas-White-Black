@@ -12,7 +12,7 @@ Este projeto consiste em um Catálogo de Filmes interativo desenvolvido com HTML
 
 ##Tela Black👇
 <figuri>
-<img src="Beige Modern New Product Facebook Post (1).png"/> 
+<img src="Captura de tela 2025-12-01 091017.png"/> 
 <figuri/>
 
 ## 📂 Estrutura do Projeto ✅
@@ -96,6 +96,7 @@ Projeto criado para estudo e prática das habilidades em:
  HTML, CSS, JavaScript (iniciante/intermediário).
 
 <h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+
 
 
 
