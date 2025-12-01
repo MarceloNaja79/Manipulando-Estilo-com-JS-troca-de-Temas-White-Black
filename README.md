@@ -84,7 +84,7 @@ Logo no topo
 
 Tamanho dos cards
 
-Se quiser, pode adicionar mais funcionalidades, como:
+Se quiser, pode adicionar mais funcionalidades, como:<br>
  ✔ Pesquisa de filmes<br>
  ✔ Sistema de filtros por gênero<br>
  ✔ Animações extras<br>
@@ -96,6 +96,7 @@ Projeto criado para estudo e prática das habilidades em:
  HTML, CSS, JavaScript (iniciante/intermediário).
 
 <h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+
 
 
 
